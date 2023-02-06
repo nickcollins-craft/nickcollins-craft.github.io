@@ -34,6 +34,9 @@ mastodon:
 theme: minima
 plugins:
   - jekyll-feed
+header_files:
+  - home.md
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

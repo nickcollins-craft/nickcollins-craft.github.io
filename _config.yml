@@ -22,7 +22,7 @@ title: Nicholas Collins-Craft
 email: nicholas.collins-craft@inria.fr
 description: "Marie Skłodowska–Curie Fellow in the TRIPOP team at the Centre Inria de l'Université Grenoble Alpes"
 domain: nickcollins-craft.github.io
-#baseurl: # the subpath of your site, e.g. /blog
+baseurl: /home # the subpath of your site, e.g. /blog
 url: https://nickcollins-craft.github.io
 twitter_username: NCollinsCraft
 github_username:  nickcollins-craft

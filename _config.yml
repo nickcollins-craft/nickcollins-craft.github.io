@@ -37,11 +37,11 @@ plugins:
   - jekyll-include-cache
 menu:
   - title: About me
-    url:   https://nickcollins-craft.github.io/about-me/
+    url:   /about-me/
   - title: Publications
-    url:   https://nickcollins-craft.github.io/publications/
+    url:   /publications/
   - title: CV
-    url:   https://nickcollins-craft.github.io/CV.pdf/
+    url:   /CV.pdf/
 #  - title: About
 #    url:   /about/
 

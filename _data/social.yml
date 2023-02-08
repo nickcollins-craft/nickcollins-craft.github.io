@@ -1,66 +1,220 @@
-# The primary author of this blog.
-# Must be the same as `author` in `_config.yml`.
-# Change `author1` to your shortname.
-author1:
-  name:              Nicholas Collins-Craft
-  email:             nicholas.collins-craft@inria.fr
-
-  # Used at the bottom of each page and at the top of the `about` layout
-  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-  # This photo will be used in the about section
-  picture:
-    path:            /assets/img/me.jpg
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-    #srcset:
-    #  1x:            https://via.placeholder.com/128x128
-    #  2x:            https://via.placeholder.com/256x256
-
-  # Social media icons in sidebar
-  # Comment/uncommet to show/hide
-  # Rearrange to change the order in which they appear
-  social:
-    twitter:         NCollinsCraft
-    github:          nickcollins-craft
-    email:           nicholas.collins-craft@inria.fr
-    # rss:             https://<url>/feed.xml
-    # facebook:        <username>
-    # google:          <number>
-    # vk:              <username>
-    # youtube:         <string_string_string>
-    # vimeo:           <username>
-    # vine:            <username>
-    # spotify:         <user>/<number>
-    # soundcloud:      <username>
-    # lastfm:          <username>
-    # instagram:       <username>
-    # flickr:          <string@string>
-    # 500px:           <username>
-    # dribbble:        <username>
-    # behance:         <username>
-    # deviantart:      <username>
-    # ello:            <username>
-    # twitch:          <username>
-    # steam:           <number>
-    # reddit:          <username>
-    # tumblr:          <username>
-    # pinterest:       <username>
-    # foursquare:      <number>
-    # yelp:            <string>
-    # stackoverflow:   <number/username>
-    # npm:             <username>
-    # hackernews:      <username>
-    # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
-    # xing:            <firstname_lastname_counter>
-    # blogger:         <number>
-    # delicious:       <username>
-    # stumbleupon:     <username>
-    # paypal:          <username>
-    # download:        <url>
-    # keybase          <username>
+# This file contains meta data for various social media sites
+email:
+  name: Email
+  icon: icon-mail
+  prepend: 'mailto:'
+amazon:
+  name: Amazon
+  icon: icon-amazon
+google:
+  name: Google
+  icon: icon-google
+google-plus:
+  name: Google+
+  icon: icon-google-plus
+  prepend: 'https://plus.google.com/'
+google-drive:
+  name: Google Drive
+  icon: icon-google-drive
+facebook:
+  name: Facebook
+  icon: icon-facebook
+  prepend: 'https://facebook.com/'
+instagram:
+  name: Instagram
+  icon: icon-instagram
+  prepend: 'https://instagram.com/'
+whatsapp:
+  name: WhatsApp
+  icon: icon-whatsapp
+spotify:
+  name: Spotify
+  icon: icon-spotify
+  prepend: "https://play.spotify.com/"
+telegram:
+  name: Telegram
+  icon: icon-telegram
+twitter:
+  name: Twitter
+  icon: icon-twitter
+  prepend: 'https://twitter.com/'
+vine:
+  name: Vine
+  icon: icon-vine
+  prepend: 'https://vine.com/'
+vk:
+  name: VK
+  icon: icon-vk
+  prepend: "https://vk.com/"
+renren:
+  name: 人人网
+  icon: icon-renren
+sina-weibo:
+  name: Sina Weibo
+  icon: icon-sina-weibo
+rss:
+  name: RSS
+  icon: icon-rss2
+youtube:
+  name: YouTube
+  icon: icon-youtube
+  prepend: "https://www.youtube.com/channel/"
+twitch:
+  name: Twitch
+  icon: icon-twitch
+  prepend: "https://www.twitch.tv/"
+vimeo:
+  name: Vimeo
+  icon: icon-vimeo
+  prepend: "https://www.vimeo.com/"
+lanyrd:
+  name: Lanyrd
+  icon: icon-lanyrd
+flickr:
+  name: Flickr
+  icon: icon-flickr2
+  prepend: "https://flickr.com/people/"
+dribbble:
+  name: Dribbble
+  icon: icon-dribbble
+  prepend: "https://dribbble.com/"
+behance:
+  name: Behance
+  icon: icon-behance
+  prepend: "https://www.behance.net/"
+deviantart:
+  name: DeviantArt
+  icon: icon-deviantart
+  prepend: "https://"
+  append: ".deviantart.com"
+500px:
+  name: 500px
+  icon: icon-500px
+  prepend: "https://500px.com/"
+steam:
+  name: Steam
+  icon: icon-steam
+  prepend: "http://steamcommunity.com/profiles/"
+dropbox:
+  name: Dropbox
+  icon: icon-dropbox
+ondrive:
+  name: OneDrive
+  icon: icon-ondrive
+github:
+  name: GitHub
+  icon: icon-github
+  prepend: "https://github.com/"
+npm:
+  name: npm
+  icon: icon-npm
+  prepend: "https://npmjs.com/~"
+basecamp:
+  name: Basecamp
+  icon: icon-basecamp
+trello:
+  name: Trello
+  icon: icon-trello
+  prepend: "https://trello.com/"
+wordpress:
+  name: WordPress
+  icon: icon-wordpress
+joomla:
+  name: Joomla!
+  icon: icon-joomla
+ello:
+  name: Ello
+  icon: icon-ello
+  prepend: "https://ello.co/"
+blogger:
+  name: Blogger
+  icon: icon-blogger
+  prepend: "https://www.blogger.com/profile/"
+tumblr:
+  name: Tumblr
+  icon: icon-tumblr
+  prepend: "https://"
+  append: ".tumblr.com"
+yahoo:
+  name: Yahoo
+  icon: icon-yahoo
+soundcloud:
+  name: SoundCloud
+  icon: icon-soundcloud
+  prepend: "https://soundcloud.com/"
+skype:
+  name: Skype
+  icon: icon-skype
+reddit:
+  name: reddit
+  icon: icon-reddit
+  prepend: "https://www.reddit.com/user/"
+hackernews:
+  name: Hacker News
+  icon: icon-hackernews
+  prepend: "https://news.ycombinator.com/user?id="
+wikipedia:
+  name: Wikipedia
+  icon: icon-wikipedia
+linkedin:
+  name: LinkedIn
+  icon: icon-linkedin2
+  prepend: "https://www.linkedin.com/in/"
+lastfm:
+  name: Last.fm
+  icon: icon-lastfm
+  prepend: "http://www.last.fm/user/"
+delicious:
+  name: Delicious
+  icon: icon-delicious
+  prepend: "http://del.icio.us/"
+stumbleupon:
+  name: StumbleUpon
+  icon: icon-stumbleupon
+  prepend: "http://www.stumbleupon.com/stumbler/"
+stackoverflow:
+  name: Stack Overflow
+  icon: icon-stackoverflow
+  prepend: "http://stackoverflow.com/users/"
+pinterest:
+  name: Pinterest
+  icon: icon-pinterest2
+  prepend: "https://www.pinterest.com/"
+xing:
+  name: XING
+  icon: icon-xing2
+  prepend: "https://www.xing.com/profile/"
+flattr:
+  name: Flattr
+  icon: icon-flattr
+foursquare:
+  name: Foursquare
+  icon: icon-foursquare
+  prepend: "https://foursquare.com/user/"
+yelp:
+  name: Yelp
+  icon: icon-yelp
+  prepend: "https://www.yelp.com/user_details?userid="
+paypal:
+  name: PayPal
+  icon: icon-paypal
+  prepend: "https://www.paypal.me/"
+keybase:
+  name: Keybase
+  icon: icon-key
+  prepend: "https://keybase.io/"
+download:
+  name: Download
+  icon: icon-box-add
+orcid:
+  name: ORCID
+  icon: icon-orcid
+  prepend: "https://orcid.org/"
+google_scholar:
+  name: Google Scholar
+  icon: icon-google-scholar
+  prepend: "https://scholar.google.com/citations?user="
+researchgate:
+  name: ResearchGate
+  icon: icon-researchgate
+  prepend: "https://www.researchgate.net/profile/"

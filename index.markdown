@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+cover: true
 ---
 
 I am a theoretical and computational geomechanician. Specifically, I am interested in localisation behaviours in brittle materials, which typically expresses as cracks or shear bands.

@@ -24,8 +24,30 @@ HAL link: [https://hal.science/hal-03371667](https://hal.science/hal-03371667)
 N.A. Collins-Craft, I. Stefanou, J. Sulem, I. Einav, _Journal of the Mechanics and Physics of Solids_, 141, page 103975, DOI: 10.1016/j.jmps.2020.103975  
 HAL link: [https://hal.science/hal-03120686v1](https://hal.science/hal-03120686v1)  
 
+# Preprints  
+
+[On the formulation and implementation of mixed mode I and mode II extrinsic cohesive zone models with contact and friction](https://nickcollins-craft.github.io/assets/documents/CZM-II.pdf)  
+N.A. Collins-Craft, V. Acary, submitted to _Computer Methods in Applied Mechanics and Engineering_.  
+HAL link: [https://inria.hal.science/hal-04447397](https://inria.hal.science/hal-04447397) 
+
+[The influence of grain crushing and pore collapse on the formation of faults](https://nickcollins-craft.github.io/assets/documents/Breakage%20+%20porosity.pdf)  
+[Supporting information](https://nickcollins-craft.github.io/assets/documents/Breakage%20+%20porosity%20supporting.pdf)  
+N.A. Collins-Craft, I. Stefanou, J. Sulem, I. Einav, submitted to _Journal of Geophysical Research: Solid Earth_.  
+HAL link: [https://hal.science/hal-05282559](https://hal.science/hal-05282559)  
 
 # Software 
+
+#### On the formulation and implementation of mixed mode I and mode II extrinsic cohesive zone models with contact and friction
+
+Codes that accompany the paper of the same name, written in Python to interface with TRIPOP's in-house nonsmooth solver [Siconos](https://nonsmooth.gricad-pages.univ-grenoble-alpes.fr/siconos/), as well as the [Akantu](https://akantu.ch/) finite element software.  
+Software Heritage link: [https://archive.softwareheritage.org/swh:1:dir:a81be169963ba09fc3837fb974e7bae69f098770;origin=https://gitlab.inria.fr/ncollins/on-the-formulation-and-implementation-of-mixed-mode-i-and-mode-ii-extrinsic-cohesive-zone-models-with-contact-and-friction;visit=swh:1:snp:a8bd1157e66c01a9c736ad8ad1f88120f927b776;anchor=swh:1:rev:02e0ac73fca0c419ef23bfb8c818b0f802fcb608](https://archive.softwareheritage.org/swh:1:dir:a81be169963ba09fc3837fb974e7bae69f098770;origin=https://gitlab.inria.fr/ncollins/on-the-formulation-and-implementation-of-mixed-mode-i-and-mode-ii-extrinsic-cohesive-zone-models-with-contact-and-friction;visit=swh:1:snp:a8bd1157e66c01a9c736ad8ad1f88120f927b776;anchor=swh:1:rev:02e0ac73fca0c419ef23bfb8c818b0f802fcb608)  
+Zenodo link: [10.5281/zenodo.16911870](https://zenodo.org/records/16911870)  
+
+#### The influence of grain crushing and pore collapse on the formation of faults
+
+Codes that accompany the paper of the same name, written in Julia and Python and interfacing with the [Numerical Geolab](https://github.com/AlexSTA1993/numerical_geolab) finite element solver.  
+Software Heritage link: [https://archive.softwareheritage.org/swh:1:dir:14be36bbbc9d1cc6bf869a2649c7f7d1a794a229;origin=https://github.com/nickcollins-craft/The-influence-of-grain-crushing-and-pore-collapse-on-the-formation-of-faults;visit=swh:1:snp:dfd9fd7194df234314df63e7aabb8937f98dfa18;anchor=swh:1:rev:0ce2d9e3fad6da445bba1bc209b472ca775cd604](https://archive.softwareheritage.org/swh:1:dir:14be36bbbc9d1cc6bf869a2649c7f7d1a794a229;origin=https://github.com/nickcollins-craft/The-influence-of-grain-crushing-and-pore-collapse-on-the-formation-of-faults;visit=swh:1:snp:dfd9fd7194df234314df63e7aabb8937f98dfa18;anchor=swh:1:rev:0ce2d9e3fad6da445bba1bc209b472ca775cd604)  
+Zenodo link: [10.5281/zenodo.17199356](https://zenodo.org/records/17199356)  
 
 #### On the Moreau–Jean scheme with the Frémond impact law: energy conservation and dissipation properties for elastodynamics with contact, impact and friction
 
@@ -45,6 +67,16 @@ A Julia translation of the codes used to perform single material point integrati
 Github link: [https://github.com/nickcollins-craft/julia_constitutive_model_integration](https://github.com/nickcollins-craft/julia_constitutive_model_integration)
 
 # Data sets
+
+#### On the formulation and implementation of mixed mode I and mode II extrinsic cohesive zone models with contact and friction
+
+The data set accompanying the paper (and codes) of the same name. This includes the input meshes used in the finite element analyses, the outputs of the simulations in .csv, .vtk and .pvtu files.  
+Zenodo link: [10.5281/zenodo.16902181](https://zenodo.org/records/16902181)
+
+#### The influence of grain crushing and pore collapse on the formation of faults
+
+The data set accompanying the paper (and codes) of the same name. This includes data from experiments in the literature stored as .csv files, and the outputs of the simulations in .jld2, .xmdf and .h5 files.  
+Zenodo link: [10.5281/zenodo.17199464](https://zenodo.org/records/17199464)
 
 #### On the Moreau–Jean scheme with the Frémond impact law: energy conservation and dissipation properties for elastodynamics with contact, impact and friction
 

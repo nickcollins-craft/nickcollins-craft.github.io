@@ -26,12 +26,12 @@ HAL link: [https://hal.science/hal-03120686v1](https://hal.science/hal-03120686v
 
 # Preprints  
 
-[On the formulation and implementation of mixed mode I and mode II extrinsic cohesive zone models with contact and friction](https://nickcollins-craft.github.io/assets/documents/CZM-II.pdf)  
+[On the formulation and implementation of mixed mode I and mode II extrinsic cohesive zone models with contact and friction](https://nickcollins-craft.github.io/assets/documents/CZM-CMAME-II.pdf)  
 N.A. Collins-Craft, V. Acary, submitted to _Computer Methods in Applied Mechanics and Engineering_.  
 HAL link: [https://inria.hal.science/hal-04447397](https://inria.hal.science/hal-04447397) 
 
-[The influence of grain crushing and pore collapse on the formation of faults](https://nickcollins-craft.github.io/assets/documents/Breakage%20+%20porosity.pdf)  
-[Supporting information](https://nickcollins-craft.github.io/assets/documents/Breakage%20+%20porosity%20supporting.pdf)  
+[The influence of grain crushing and pore collapse on the formation of faults](https://nickcollins-craft.github.io/assets/documents/Breakage-JGR.pdf)  
+[Supporting information](https://nickcollins-craft.github.io/assets/documents/Breakage-JGR-supporting.pdf)  
 N.A. Collins-Craft, I. Stefanou, J. Sulem, I. Einav, submitted to _Journal of Geophysical Research: Solid Earth_.  
 HAL link: [https://hal.science/hal-05282559](https://hal.science/hal-05282559)  
 
@@ -46,8 +46,8 @@ Zenodo link: [10.5281/zenodo.16911870](https://zenodo.org/records/16911870)
 #### The influence of grain crushing and pore collapse on the formation of faults
 
 Codes that accompany the paper of the same name, written in Julia and Python and interfacing with the [Numerical Geolab](https://github.com/AlexSTA1993/numerical_geolab) finite element solver.  
-Software Heritage link: [https://archive.softwareheritage.org/swh:1:dir:14be36bbbc9d1cc6bf869a2649c7f7d1a794a229;origin=https://github.com/nickcollins-craft/The-influence-of-grain-crushing-and-pore-collapse-on-the-formation-of-faults;visit=swh:1:snp:dfd9fd7194df234314df63e7aabb8937f98dfa18;anchor=swh:1:rev:0ce2d9e3fad6da445bba1bc209b472ca775cd604](https://archive.softwareheritage.org/swh:1:dir:14be36bbbc9d1cc6bf869a2649c7f7d1a794a229;origin=https://github.com/nickcollins-craft/The-influence-of-grain-crushing-and-pore-collapse-on-the-formation-of-faults;visit=swh:1:snp:dfd9fd7194df234314df63e7aabb8937f98dfa18;anchor=swh:1:rev:0ce2d9e3fad6da445bba1bc209b472ca775cd604)  
-Zenodo link: [10.5281/zenodo.17199356](https://zenodo.org/records/17199356)  
+Software Heritage link: [https://archive.softwareheritage.org/swh:1:dir:fad110c9048727eb20c84be2c87bd4212b09a604;origin=https://github.com/nickcollins-craft/The-influence-of-grain-crushing-and-pore-collapse-on-the-formation-of-faults;visit=swh:1:snp:97d1306923f045daf5608ed4c9dd45a329415d40;anchor=swh:1:rev:655d335929e258efc8542bf9e0a6b68d52e6a3c4](https://archive.softwareheritage.org/swh:1:dir:fad110c9048727eb20c84be2c87bd4212b09a604;origin=https://github.com/nickcollins-craft/The-influence-of-grain-crushing-and-pore-collapse-on-the-formation-of-faults;visit=swh:1:snp:97d1306923f045daf5608ed4c9dd45a329415d40;anchor=swh:1:rev:655d335929e258efc8542bf9e0a6b68d52e6a3c4)  
+Zenodo link: [10.5281/zenodo.18066944](https://zenodo.org/records/18066944)  
 
 #### On the Moreau–Jean scheme with the Frémond impact law: energy conservation and dissipation properties for elastodynamics with contact, impact and friction
 
@@ -76,7 +76,7 @@ Zenodo link: [10.5281/zenodo.16902181](https://zenodo.org/records/16902181)
 #### The influence of grain crushing and pore collapse on the formation of faults
 
 The data set accompanying the paper (and codes) of the same name. This includes data from experiments in the literature stored as .csv files, and the outputs of the simulations in .jld2, .xmdf and .h5 files.  
-Zenodo link: [10.5281/zenodo.17199464](https://zenodo.org/records/17199464)
+Zenodo link: [10.5281/zenodo.18067008](https://zenodo.org/records/18067008)
 
 #### On the Moreau–Jean scheme with the Frémond impact law: energy conservation and dissipation properties for elastodynamics with contact, impact and friction
 

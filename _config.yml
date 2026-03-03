@@ -141,6 +141,12 @@ defaults:
       layout:          plain
       sitemap:         false
 
+  - scope:
+      path:            assets/teaching/
+    values:
+      layout:          null
+      sitemap:         false
+
   # # You can use the following to enable comments on all posts.
   # - scope:
   #     type:            posts

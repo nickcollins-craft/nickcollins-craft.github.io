@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: USMA1Q (2026)
 permalink: /teaching/2026_USMA1Q/
 ---

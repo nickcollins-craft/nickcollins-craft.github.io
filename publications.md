@@ -6,6 +6,13 @@ permalink: /publications/
 
 # Journal articles  
 
+#### 2026
+
+[The influence of grain crushing and pore collapse on the formation of faults](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JB033062)  
+[Supporting information](https://nickcollins-craft.github.io/assets/documents/Breakage-JGR-supporting.pdf)  
+N.A. Collins-Craft, I. Stefanou, J. Sulem, I. Einav, in the _Journal of Geophysical Research: Solid Earth_, Volume 131, page e2025JB033062.  
+DOI: 10.1029/ 2025JB033062  
+HAL link: [https://hal.science/hal-05282559](https://hal.science/hal-05282559)  
 
 #### 2025
 
@@ -30,10 +37,9 @@ HAL link: [https://hal.science/hal-03120686v1](https://hal.science/hal-03120686v
 N.A. Collins-Craft, V. Acary, submitted to _Computer Methods in Applied Mechanics and Engineering_.  
 HAL link: [https://inria.hal.science/hal-04447397](https://inria.hal.science/hal-04447397) 
 
-[The influence of grain crushing and pore collapse on the formation of faults](https://nickcollins-craft.github.io/assets/documents/Breakage-JGR.pdf)  
-[Supporting information](https://nickcollins-craft.github.io/assets/documents/Breakage-JGR-supporting.pdf)  
-N.A. Collins-Craft, I. Stefanou, J. Sulem, I. Einav, submitted to _Journal of Geophysical Research: Solid Earth_.  
-HAL link: [https://hal.science/hal-05282559](https://hal.science/hal-05282559)  
+[Monolithic mechanical model incorporating solid contact for anisotropic porous materials](https://nickcollins-craft.github.io/assets/documents/Monolithic.pdf)  
+L. Zhang, N.A. Collins-Craft, P. Braun, submitted to _Computer Methods in Applied Mechanics and Engineering_.  
+HAL link: [https://hal.science/hal-05535452](https://hal.science/hal-05535452)  
 
 # Software 
 

@@ -10,14 +10,14 @@ permalink: /publications/
 
 [The influence of grain crushing and pore collapse on the formation of faults](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JB033062)  
 [Supporting information](https://nickcollins-craft.github.io/assets/documents/Breakage-JGR-supporting.pdf)  
-N.A. Collins-Craft, I. Stefanou, J. Sulem, I. Einav, in the _Journal of Geophysical Research: Solid Earth_, Volume 131, page e2025JB033062.  
-DOI: 10.1029/ 2025JB033062  
+N.A. Collins-Craft, I. Stefanou, J. Sulem, I. Einav, in the _Journal of Geophysical Research: Solid Earth_, Volume 131, page e2025JB033062. DOI: 10.1029/ 2025JB033062  
 HAL link: [https://hal.science/hal-05282559](https://hal.science/hal-05282559)  
 
 #### 2025
 
 [On the Moreau–Jean scheme with the Frémond impact law: energy conservation and dissipation properties for elastodynamics with contact, impact and friction](https://jtcam.episciences.org/13480)
-V. Acary & N.A. Collins-Craft, in the _Journal of Theoretical, Computational and Applied Mechanics_, DOI: 10.46298/jtcam.13480, HAL link: [https://hal.science/hal-04230941](https://hal.science/hal-04230941)
+V. Acary & N.A. Collins-Craft, in the _Journal of Theoretical, Computational and Applied Mechanics_, DOI: 10.46298/jtcam.13480  
+HAL link: [https://hal.science/hal-04230941](https://hal.science/hal-04230941)
 
 #### 2022  
 

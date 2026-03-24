@@ -19,3 +19,5 @@ Voici les slides pour chaque séance.
 | Séance 5 | [Voir slides]({{'/assets/teaching/2026_USMA1Q/session5_slides.slides.html' | relative_url }}) |
 | Séance 6 | [Voir slides]({{'/assets/teaching/2026_USMA1Q/session6_slides.slides.html' | relative_url }}) |
 | Séance 7 | [Voir slides]({{'/assets/teaching/2026_USMA1Q/session7_slides.slides.html' | relative_url }}) |
+| Séance 8 | [Voir slides]({{'/assets/teaching/2026_USMA1Q/session8_slides.slides.html' | relative_url }}) |
+| Séance 9 | [Voir slides]({{'/assets/teaching/2026_USMA1Q/session9_slides.slides.html' | relative_url }}) |

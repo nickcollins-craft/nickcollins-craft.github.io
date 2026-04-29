@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 Nick:
   name:              Nicholas Collins-Craft
-  email:             nicholas-anton.collins-craft@enpc.fr
+  email:             ncsquared2@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,7 +26,7 @@ Nick:
     researchgate:    Nicholas-Collins-Craft
     github:          nickcollins-craft
     twitter:         NCollinsCraft
-    email:           nicholas-anton.collins-craft@enpc.fr
+    email:           ncsquared2@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>

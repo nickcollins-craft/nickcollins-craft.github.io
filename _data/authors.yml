@@ -7,7 +7,7 @@ Nick:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             "Postdoctoral fellow in the CERMES team at École nationale des ponts et chaussées"
+  about:             "Lecturer in Applied Mathematics at Murdoch University."
 
   # This photo will be used in the about section
   picture:
@@ -25,6 +25,7 @@ Nick:
     google_scholar:  htO6ZlEAAAAJ
     researchgate:    Nicholas-Collins-Craft
     github:          nickcollins-craft
+    linkedin:        nicholas-collins-craft-76b768382
     twitter:         NCollinsCraft
     email:           ncsquared2@gmail.com
     # rss:             https://<url>/feed.xml
@@ -55,7 +56,6 @@ Nick:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

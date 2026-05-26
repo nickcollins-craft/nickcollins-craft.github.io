@@ -31,6 +31,14 @@ HAL link: [https://hal.science/hal-03371667](https://hal.science/hal-03371667)
 N.A. Collins-Craft, I. Stefanou, J. Sulem, I. Einav, _Journal of the Mechanics and Physics of Solids_, 141, page 103975, DOI: 10.1016/j.jmps.2020.103975  
 HAL link: [https://hal.science/hal-03120686v1](https://hal.science/hal-03120686v1)  
 
+# Book chapters
+
+#### 2026
+
+[Accounting for grain crushing and pore collapse for strain localization in rocks](https://hal.science/hal-05601570)
+N.A. Collins-Craft, J. Sulem, I. Stefanou, I. Einav, accepted in _Continuum Models and Discrete Systems_, edited P. Trovalusci  
+HAL link: [https://hal.science/hal-05601570](https://hal.science/hal-05601570)  
+
 # Preprints  
 
 [On the formulation and implementation of mixed mode I and mode II extrinsic cohesive zone models with contact and friction](https://nickcollins-craft.github.io/assets/documents/CZM-CMAME-II.pdf)  
@@ -38,7 +46,7 @@ N.A. Collins-Craft, V. Acary, submitted to _Computer Methods in Applied Mechanic
 HAL link: [https://inria.hal.science/hal-04447397](https://inria.hal.science/hal-04447397) 
 
 [Monolithic mechanical model incorporating solid contact for anisotropic porous materials](https://nickcollins-craft.github.io/assets/documents/Monolithic.pdf)  
-L. Zhang, N.A. Collins-Craft, P. Braun, submitted to _Computer Methods in Applied Mechanics and Engineering_.  
+L. Zhang, N.A. Collins-Craft, P. Braun.  
 HAL link: [https://hal.science/hal-05535452](https://hal.science/hal-05535452)  
 
 # Software 

@@ -8,6 +8,10 @@ permalink: /publications/
 
 #### 2026
 
+[Incremental homogenisation of anisotropic porous media with evolving solid contact using a finite-element-based linear complementarity framework](https://www.sciencedirect.com/science/article/pii/S0266352X26008682)  
+L. Zhang, N.A. Collins-Craft, P. Braun, in _Computers & Geotechnics_, Volume 203, page 108762. DOI: 10.1016/j.compgeo.2026.108762  
+HAL link: [https://hal.science/hal-05535452](https://hal.science/hal-05535452)
+
 [The influence of grain crushing and pore collapse on the formation of faults](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JB033062)  
 [Supporting information](https://nickcollins-craft.github.io/assets/documents/Breakage-JGR-supporting.pdf)  
 N.A. Collins-Craft, I. Stefanou, J. Sulem, I. Einav, in the _Journal of Geophysical Research: Solid Earth_, Volume 131, page e2025JB033062. DOI: 10.1029/ 2025JB033062  
@@ -45,11 +49,20 @@ HAL link: [https://hal.science/hal-05601570](https://hal.science/hal-05601570)
 N.A. Collins-Craft, V. Acary, submitted to _Computer Methods in Applied Mechanics and Engineering_.  
 HAL link: [https://inria.hal.science/hal-04447397](https://inria.hal.science/hal-04447397) 
 
-[Monolithic mechanical model incorporating solid contact for anisotropic porous materials](https://nickcollins-craft.github.io/assets/documents/Monolithic.pdf)  
-L. Zhang, N.A. Collins-Craft, P. Braun.  
-HAL link: [https://hal.science/hal-05535452](https://hal.science/hal-05535452)  
 
-# Software 
+# Standalone Software
+
+#### Julia constitutive model integration
+
+A Julia translation of the codes used to perform single material point integration and linear stability analyses in the Cosserat Breakage Mechanics paper, which were originally a mix of Python and Mathematica. As Julia is still a fast-evolving language, and I wrote this repository before becoming aware of the principles of good code replicability, I cannot guarantee that the suite will work out-of-the-box, although if it doesn't, it shouldn't be too far away, and I am happy to help in making it work for anyone interested in using it for science.  
+GitHub link: [https://github.com/nickcollins-craft/julia_constitutive_model_integration](https://github.com/nickcollins-craft/julia_constitutive_model_integration)
+
+#### Hamersley.jl
+
+A software package written in Julia for the integration of higher-order and multiphysics in solid mechanical finite element simulations, with a particular eye towards geomechanics. This package is under active development and contributions are encouraged.
+GitHub link: [https://github.com/nickcollins-craft/Hamersley.jl](https://github.com/nickcollins-craft/Hamersley.jl)
+
+# Software Supporting Published Articles
 
 #### On the formulation and implementation of mixed mode I and mode II extrinsic cohesive zone models with contact and friction
 
@@ -75,10 +88,6 @@ Codes that accompany the paper of the same name, written in Python to interface 
 Software Heritage link: [https://archive.softwareheritage.org/swh:1:dir:9e7bfbdad8111df26f6a13f2c47a0258c47d0528;origin=https://github.com/nickcollins-craft/On-the-formulation-and-implementation-of-extrinsic-cohesive-zone-models-with-contact;visit=swh:1:snp:47b52930b84c595623e9b13f031afcc474ff8b6b;anchor=swh:1:rev:5d5de7e9a1f477585bc177677ffeef8881b20473](https://archive.softwareheritage.org/swh:1:dir:9e7bfbdad8111df26f6a13f2c47a0258c47d0528;origin=https://github.com/nickcollins-craft/On-the-formulation-and-implementation-of-extrinsic-cohesive-zone-models-with-contact;visit=swh:1:snp:47b52930b84c595623e9b13f031afcc474ff8b6b;anchor=swh:1:rev:5d5de7e9a1f477585bc177677ffeef8881b20473)
 Zenodo link: [https://zenodo.org/record/6939392#.Y-Jgy6fMI5k](https://zenodo.org/record/6939392#.Y-Jgy6fMI5k)
 
-#### Julia constitutive model integration  
-
-A Julia translation of the codes used to perform single material point integration and linear stability analyses in the Cosserat Breakage Mechanics paper, which were originally a mix of Python and Mathematica. As Julia is still a fast-evolving language, and I wrote this repository before becoming aware of the principles of good code replicability, I cannot guarantee that the suite will work out-of-the-box, although if it doesn't, it shouldn't be too far away, and I am happy to help in making it work for anyone interested in using it for science.  
-Github link: [https://github.com/nickcollins-craft/julia_constitutive_model_integration](https://github.com/nickcollins-craft/julia_constitutive_model_integration)
 
 # Data sets
 
